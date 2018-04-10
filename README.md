@@ -5,6 +5,6 @@
 * без метки - сделано, не проверено.
 
 
-Build with: g++ <projname>.cpp -lpthread -lrt -std=c++14 -o <output_filename>
+Build with: `g++ <projname>.cpp -lpthread -lrt -std=c++14 -o <output_filename>`
 
 https://vk.com/meeksher
