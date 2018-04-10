@@ -1,1 +1,4 @@
-# 4sem_os_labs
+# Лабы по ОС 
+# 4 сем
+
+https://vk.com/meeksher
